@@ -17,5 +17,10 @@ three day
 3.构建了一些可复用的vue模块。
 4.修复了一些定位bug以及routers逻辑bug
 _______________
-four day
+four day , five day
 1.完成了首页的内容模块。（后面修改传值即可）
+2.完成了首页内的第三层routers的内容点击功能。
+3.可以通过一简单的库进行数据的存储调出。（routers）
+4.实现了可以通过routers及是vuex进行数据的共享。（抛出和引入与修改）
+5.实现了通过数据进行渲染一些vue模块。（components/tabbar.vue）
+6.通过a标签实现底层楼层跳跃。
